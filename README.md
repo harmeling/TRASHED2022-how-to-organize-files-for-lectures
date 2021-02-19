@@ -13,12 +13,14 @@ Create a sciebo subfolder and a git repository:
 Use `sciebo` for the following folders:
 
     public      # to publish slides, exercises, notebooks, code, data
-    slides      # if powerpoint slides, for my local edits
+    orga        # to collect lists of points, syllabus, exam results
+    submission  # where students can drop of their homeworks
+    workspace   # where tutors correct homeworks
+    slides      # if powerpoint slides, for my local edits, maybe in another git if tex
     
 Use `git` for the following stuff:
 
     exercises   # latex sources, no PDFs committed (they go to sciebo)
-    slides      # if latex, only sources, no PDFs committed
     notebooks   # without evaluation (otherwise to `public`)
     code        # access data only via sciebo in public/data
     
