@@ -1,4 +1,7 @@
-2021-02-10 created by Stefan Harmeling
+# How to organizes files for lectures
+(author: Stefan Harmeling, created: 2021-02-19, license: CC BY-SA 4.0)
+
+Notes: sciebo is a cloud solution for universities in NRW/Germany which you can replace with any other cloud storage solution.
 
 # before the semester
 
